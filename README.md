@@ -1,4 +1,4 @@
-# 📑🖌 TodoList / Lista de Tarefas - Vue3
+# 📑🖊 TodoList / Lista de Tarefas - Vue3
 Olá, bem-vindo(a) ao meu perfil no Github.
 Este projeto foi criado para fins de estudo.
 
@@ -9,7 +9,7 @@ A aplicação é uma todolist (lista de tarefas), com Vue3.
 Html, CSS, Javascript e Vue3
 
 ## Objetivo:
-- Exibir tarefas adcionadas (há 4 pré-configuradas)
+- Exibir tarefas adicionadas (há 4 pré-configuradas)
 - Ao concluir tarefa, clicar no checkbox para que sejam tracejadas
 - Ao clicar no último botão [visualizar todas as tarefas/ ocultar tarefas concluídas]
 - Ao clicar no botão [x], excluir tarefa
